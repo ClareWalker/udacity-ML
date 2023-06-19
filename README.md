@@ -1,2 +1,3 @@
-# Projects completed during "Intro to Machine Learning with PyTorch"
-Nanodegree completed in 2021
+# Intro to Machine Learning with PyTorch
+
+Projects for Udacity's Nanodegree, completed in 2021.
